@@ -8,8 +8,7 @@ function Home() {
                             text-2xl 
                           text-fuchsia-950"
             >
-                {" "}
-                Hello World!!!!!!!!!!!!!
+            Welcome to JScents
             </p>
         </>
     );
