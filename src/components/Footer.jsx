@@ -3,7 +3,10 @@ import { Facebook, Instagram, Linkedin, Twitch, Twitter } from "lucide-react";
 function Footer() {
     return (
         <>
-            <div className="bg-gray-800 text-white p-8">
+            <div
+                style={{ backgroundColor: "#B8860B" }}
+                className=" text-white p-8"
+            >
                 <div className="flex justify-between">
                     <div>
                         <h1 className="text-2xl font-bold bg-gradient-to-r from-pink-400  to-blue-500 bg-clip-text text-transparent">

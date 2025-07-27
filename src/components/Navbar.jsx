@@ -1,8 +1,8 @@
 function Navbar() {
     return (
         <>
-            <nav className="flex gap-[30rem] p-6 bg-gray-800 text-white">
-                <h1 className="text-2xl font-bold bg-gradient-to-r from-pink-400  to-blue-500 bg-clip-text text-transparent">
+            <nav style={{ backgroundColor: "#B8860B" }} className="flex gap-[30rem] p-6 text-black">
+                <h1 className="text-2xl font-bold text-black">
                     JScent
                 </h1>
 
