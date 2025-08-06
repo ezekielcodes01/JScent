@@ -22,7 +22,7 @@ function Home() {
                             style={{ backgroundColor: "#B8860B" }}
                             className="p-2 rounded-[.5rem] font-white hover:cursor-pointer"
                         >
-                            SHOP NOW
+                            SHOP NOW;
                         </button>
                     </div>
                 </div>
